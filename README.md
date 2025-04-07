@@ -112,7 +112,7 @@ d = sub(23, 4);
 
 | Telugu       | English (Transliterated) | Meaning               |
 |--------------|---------------------------|------------------------|
-| మొదలు        | modalu                    | Start of program       |
+| మొదలు        | modallu                    | Start of program       |
 | ముగింపు      | mugimpu                   | End of program         |
 | విలువ        | viluva                    | Variable declaration   |
 | రాయీ         | raayi                     | Print statement        |
@@ -120,7 +120,7 @@ d = sub(23, 4);
 | లోపల         | lopala                    | Inside loop/function   |
 | లూప్         | loopu                     | While loop             |
 | ఆపే         | aapey                      | End of loop/function   |
-| సృష్టించు     | srishtinchu               | Function definition    |
+| సృష్టించు     | srushtinchu               | Function definition    |
 | పంపించు       | pampinchu                 | Return value from func |
 
 ---
