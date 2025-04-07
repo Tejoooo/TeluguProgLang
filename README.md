@@ -119,7 +119,7 @@ d = sub(23, 4);
 | కోసం         | kosam                     | For loop               |
 | లోపల         | lopala                    | Inside loop/function   |
 | లూప్         | loopu                     | While loop             |
-| ఆపే         | aape                      | End of loop/function   |
+| ఆపే         | aapey                      | End of loop/function   |
 | సృష్టించు     | srishtinchu               | Function definition    |
 | పంపించు       | pampinchu                 | Return value from func |
 
