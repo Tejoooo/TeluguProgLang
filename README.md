@@ -36,8 +36,9 @@ telugu_lang/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/telugu_lang.git
-   cd telugu_lang
+   
+   git clone https://github.com/Tejoooo/TeluguProgLang.git
+   cd TeluguProgLang
    ```
 
 2. **Make the shell script executable**
@@ -146,7 +147,7 @@ d = sub(23, 4);
 
 ## 🙏 Contributions
 
-Feel free to contribute by opening [issues](https://github.com/your-repo/issues) or submitting [pull requests](https://github.com/your-repo/pulls)!  
+Feel free to contribute by opening [issues](https://github.com/Tejoooo/TeluguProgLang/issues) or submitting [pull requests](https://github.com/Tejoooo/TeluguProgLang/pulls)!  
 Let's bring coding to native language speakers! 🌍
 
 ---
